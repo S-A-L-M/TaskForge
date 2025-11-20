@@ -17,7 +17,7 @@
 
 </div>
 
-## 📖 Overview
+## Overview
 
 **Task Forge** is a cross-platform mobile application built with **Flutter** that enables users to organize their work through hierarchical task management. Create projects, add tasks, nest subtasks infinitely, and keep everything organized with tags, priorities, and deadlines.
 
@@ -118,7 +118,7 @@ lib/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### **Prerequisites**
 
@@ -208,7 +208,7 @@ SECRET_KEY=your-secret-key-here
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 <table>
 <tr>
