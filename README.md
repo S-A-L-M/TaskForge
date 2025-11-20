@@ -1,6 +1,5 @@
 # 📁 ESTRUCTURA REAL DEL MVP - TASK FORGE
 
-## ✅ Lo que YA TIENES hecho (Archivos creados)
 
 ```
 task_forge/
@@ -48,20 +47,6 @@ task_forge/
 │       └── search_screen.dart               ⏳ (Búsqueda - OPCIONAL)
 ```
 
----
-
-## 📊 PROGRESO ACTUAL
-
-### ✅ Completado (60%)
-- Configuración base
-- Modelos de datos
-- Servicio de API
-- Widgets reutilizables (con UI moderna)
-- Dependencias
-
-### ⏳ Por completar (40%)
-- main.dart (5%)
-- 4 Pantallas principales (35%)
 
 ---
 
